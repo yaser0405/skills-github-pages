@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: green;
+    color: black;
+    padding: 20px;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav ul li a {
+    color: green;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: green;
+    color: black;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.interest {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+.interest img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
